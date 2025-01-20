@@ -28,7 +28,7 @@ A simple yet fully functional chess game built for the terminal. Focused on logi
 
 ### 🎨 **Portfolio Website** (React, HTML, CSS, JavaScript)  
 Developed a responsive portfolio website showcasing my projects and experiences, ensuring cross-device compatibility.  
-[View Project](#https://github.com/techo-anant/anant-portfolio)
+[View Project](https://github.com/techo-anant/anant-portfolio)
 
 ### 📁 **Tic-Tac-Toe Game** (HTML, CSS, JavaScript)  
 Created an interactive Tic-Tac-Toe game with an intuitive user interface.  
