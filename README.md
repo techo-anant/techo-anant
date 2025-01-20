@@ -24,7 +24,7 @@ Hi there! 👋 I'm Anant, a passionate student pursuing an Honours degree in Bus
 
 ### 🧩 **Command-Line Chess Game** (C)  
 A simple yet fully functional chess game built for the terminal. Focused on logic design and gameplay mechanics.  
-[View Project](#)
+[View Project](https://github.com/techo-anant/Command_Line_Chess/blob/main/chess.c)
 
 ### 🎨 **Portfolio Website** (React, HTML, CSS, JavaScript)  
 Developed a responsive portfolio website showcasing my projects and experiences, ensuring cross-device compatibility.  
@@ -49,9 +49,10 @@ Created an interactive Tic-Tac-Toe game with an intuitive user interface.
 
 ## 🤝 **Connect with Me**
 
-- **LinkedIn:** [Anant's LinkedIn](#)  
+- **LinkedIn:** [Anant's LinkedIn](https://www.linkedin.com/in/anantk-singh/)  
 - **Email:** [singhn4n3@uwindsor.ca](mailto:singhn4n3@uwindsor.ca)  
-- **GitHub:** [Anant's GitHub](https://github.com/YourGitHubUsername)  
+- **GitHub:** [Anant's GitHub](https://github.com/techo-anant)
+- **Portfolio** [View Website](https://techo-anant.github.io/anant-portfolio/)
 
 ---
 
