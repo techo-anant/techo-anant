@@ -30,7 +30,7 @@ A simple yet fully functional chess game built for the terminal. Focused on logi
 Developed a responsive portfolio website showcasing my projects and experiences, ensuring cross-device compatibility.  
 [View Project](https://github.com/techo-anant/anant-portfolio)
 
-### 📁 **Tic-Tac-Toe Game** (HTML, CSS, JavaScript)  
+### 📁 **Tic-Tac-Toe Game** (Java, Swing)  
 Created an interactive Tic-Tac-Toe game with an intuitive user interface.  
 [View Project](https://github.com/techo-anant/Tic-Tac-Toe/blob/main/tttJframe.java)
 
