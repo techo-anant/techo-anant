@@ -1,6 +1,6 @@
 # 🚀 **Anant's Portfolio**
 
-Welcome to my portfolio repository! This repository showcases my projects, skills, and accomplishments in computer science, business administration, and beyond.
+Welcome to my Github! Here you will see my projects, skills, and accomplishments in computer science, business administration, and beyond.
 
 ---
 
