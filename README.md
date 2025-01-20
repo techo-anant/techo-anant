@@ -13,9 +13,9 @@ Hi there! 👋 I'm Anant, a passionate student pursuing an Honours degree in Bus
 ## 🛠 **Skills**
 
 - **Programming Languages:** Java, C, Python, JavaScript  
-- **Web Development:** HTML, CSS, React, Node.js  
-- **Software Development:** Object-Oriented Programming, Algorithms, Data Structures  
-- **Tools & Technologies:** Git, Azure DevOps, Oracle, .NET  
+- **Web Development:** HTML, CSS, JavaScript, React 
+- **Software Development:** Software Development Life Cycle, Object-Oriented Programming, Algorithms, Data Structures  
+- **Tools & Technologies:** Git, MS Office 365, VSCode, Eclipse 
 - **Other Skills:** Leadership, Problem-Solving, Collaboration  
 
 ---
@@ -33,6 +33,8 @@ Developed a responsive portfolio website showcasing my projects and experiences,
 ### 📁 **Tic-Tac-Toe Game** (HTML, CSS, JavaScript)  
 Created an interactive Tic-Tac-Toe game with an intuitive user interface.  
 [View Project](#)
+
+### 🔎 **Navigate my repositories for more!!!
 
 ---
 
