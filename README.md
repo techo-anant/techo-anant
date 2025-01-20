@@ -1,4 +1,4 @@
-# 🚀 **Anant's Portfolio**
+# 🚀 **Anant Kumar Singh**
 
 Welcome to my Github! Here you will see my projects, skills, and accomplishments in computer science, business administration, and beyond.
 
