@@ -32,7 +32,7 @@ Developed a responsive portfolio website showcasing my projects and experiences,
 
 ### 📁 **Tic-Tac-Toe Game** (HTML, CSS, JavaScript)  
 Created an interactive Tic-Tac-Toe game with an intuitive user interface.  
-[View Project](#)
+[View Project](https://github.com/techo-anant/Tic-Tac-Toe/blob/main/tttJframe.java)
 
 ### 🔎 **Navigate my repositories for more!!!
 
@@ -50,7 +50,7 @@ Created an interactive Tic-Tac-Toe game with an intuitive user interface.
 ## 🤝 **Connect with Me**
 
 - **LinkedIn:** [Anant's LinkedIn](#)  
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
+- **Email:** [singhn4n3@uwindsor.ca](mailto:singhn4n3@uwindsor.ca)  
 - **GitHub:** [Anant's GitHub](https://github.com/YourGitHubUsername)  
 
 ---
