@@ -6,7 +6,7 @@ Welcome to my Github! Here you will see my projects, skills, and accomplishments
 
 ## 📜 **About Me**
 
-Hi there! 👋 I'm Anant, a passionate student pursuing an Honours degree in Business Administration and Computer Science. With a GPA of 97.3%, I am excited to explore opportunities in software development, data science, and financial analysis. My goal is to solve real-world problems through innovative technologies.
+Hi there! 👋 I'm Anant, a passionate student pursuing an Honours degree in Computer Science and Business Administration. With a GPA of 97.3%, I am excited to explore opportunities in software development, data science, and financial analysis. My goal is to solve real-world problems through innovative technologies.
 
 ---
 
