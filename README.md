@@ -12,11 +12,10 @@ Hi there! 👋 I'm Anant, a passionate student pursuing an Honours degree in Com
 
 ## 🛠 **Skills**
 
-- **Programming Languages:** Java, C, Python, JavaScript, TypeScript  
-- **Web Development:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS  
+- **Programming Languages:** JavaScript, TypeScript, Java, C, Python
+- **Web Development:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS, NodeJS, NextJS, Angular, ExpressJS
 - **Software Development:** Software Development Life Cycle, Object-Oriented Programming, Algorithms, Data Structures  
-- **Tools & Technologies:** Git, MS Office 365, VSCode, Eclipse, Puter.js  
-- **Other Skills:** Leadership, Problem-Solving, Collaboration  
+- **Tools & Technologies:** Git, MS Office 365, VSCode, Eclipse, Puter.js, Docker, Kubernets
 
 ---
 
